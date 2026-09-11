@@ -1,5 +1,5 @@
 
-class Main {
+class LearningCommitment {
 
     public static void main(String[] args) {
 // Display the student's learning track.

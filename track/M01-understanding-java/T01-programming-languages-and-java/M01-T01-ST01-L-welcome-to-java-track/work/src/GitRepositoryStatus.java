@@ -1,5 +1,5 @@
 
-class Main {
+class GitRepositoryStatus {
 
     public static void main(String[] args) {
 // Display the repository cloning status.

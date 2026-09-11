@@ -1,5 +1,5 @@
 
-class Main {
+class MyPlacementgoal {
 
     public static void main(String[] args) {
         System.out.println("---MY PLACEMENT GOAL ---");
