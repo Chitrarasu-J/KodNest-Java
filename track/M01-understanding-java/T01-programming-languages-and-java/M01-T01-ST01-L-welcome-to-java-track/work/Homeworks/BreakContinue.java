@@ -1,5 +1,5 @@
 
-class Home1 {
+class BreakContinue {
 
     public static void main(String[] args) {
         System.out.println("While Break");
