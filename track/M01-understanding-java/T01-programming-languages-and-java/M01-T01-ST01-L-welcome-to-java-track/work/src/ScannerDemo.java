@@ -3,6 +3,7 @@ import java.util.*;
 
 class ScannerDemo {
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
 
 // Read and display the profile
@@ -15,7 +16,6 @@ class ScannerDemo {
         double assessmentPercentage = scan.nextDouble();
 
         scan.close();
-
         System.out.println("Learner: " + firstName);
 
         System.out.println("Problems solved: " + solvedProblems);
