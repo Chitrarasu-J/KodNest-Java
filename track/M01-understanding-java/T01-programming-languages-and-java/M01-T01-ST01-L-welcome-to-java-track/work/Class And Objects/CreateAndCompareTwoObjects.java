@@ -13,6 +13,7 @@ class StudentC {
 
 public class CreateAndCompareTwoObjects {
 
+    @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
